@@ -3,11 +3,6 @@
 SELECT*
 FROM layoffs;
 
--- 1. Remove duplicates
--- 2. standertize the data
--- 3. null values or blank values
--- 4. remove any columns or rows
-
 
 
 
